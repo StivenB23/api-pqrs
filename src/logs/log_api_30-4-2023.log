@@ -1,0 +1,422 @@
+[2023-05-30T13:25:46.425Z] info: Listen in port 3000
+[2023-05-30T13:26:03.307Z] error: Sesión no valida
+[2023-05-30T13:27:16.652Z] info: Inicio de sesión exitoso
+[2023-05-30T13:27:33.579Z] info: autenticación exitosa
+[2023-05-30T13:27:33.586Z] info: Autorización exitosa
+[2023-05-30T13:27:33.604Z] info: Petición listar todas las pqrs
+[2023-05-30T13:28:29.385Z] info: autenticación exitosa
+[2023-05-30T13:28:29.392Z] info: Autorización exitosa
+[2023-05-30T13:28:29.399Z] info: Petición listar todas las pqrs
+[2023-05-30T13:29:46.243Z] info: Busqueda pqrs por id 6470f42d305bbaba8c329d8a exitosa
+[2023-05-30T13:29:54.585Z] info: Busqueda pqrs por id 6470f42d305bbaba8c329d8a exitosa
+[2023-05-30T13:30:02.571Z] info: Busqueda pqrs por id 6470f42d305bbaba8c329d8a exitosa
+[2023-05-30T13:30:09.986Z] info: autenticación exitosa
+[2023-05-30T13:30:09.992Z] info: Autorización exitosa
+[2023-05-30T13:30:09.999Z] info: Petición listar todas las pqrs
+[2023-05-30T13:30:31.331Z] info: Busqueda pqrs por userid 6470f42d305bbaba8c329d8a exitosa
+[2023-05-30T13:31:57.114Z] info: Busqueda pqrs por id 6473b0445cf9c3849db34735 exitosa
+[2023-05-30T13:32:24.896Z] info: Listen in port 3000
+[2023-05-30T13:32:25.122Z] info: Busqueda pqrs por id 6473b0445cf9c3849db34735 exitosa
+[2023-05-30T13:33:39.470Z] error: Busqueda pqrs por id 6473b0445cf9c3849db34735i sin resultados
+[2023-05-30T13:36:41.463Z] info: Listen in port 3000
+[2023-05-30T13:38:07.437Z] info: Listen in port 3000
+[2023-05-30T13:38:51.600Z] info: Listen in port 3000
+[2023-05-30T13:39:09.875Z] info: Listen in port 3000
+[2023-05-30T13:40:26.077Z] info: Listen in port 3000
+[2023-05-30T13:42:33.795Z] info: Listen in port 3000
+[2023-05-30T13:44:00.648Z] info: Listen in port 3000
+[2023-05-30T13:45:11.587Z] info: Listen in port 3000
+[2023-05-30T13:45:54.497Z] info: Listen in port 3000
+[2023-05-30T13:46:35.228Z] info: Listen in port 3000
+[2023-05-30T13:46:36.924Z] info: Inicio de sesión exitoso
+[2023-05-30T13:53:42.103Z] info: Listen in port 3000
+[2023-05-30T13:54:19.987Z] info: Listen in port 3000
+[2023-05-30T13:54:24.557Z] info: Listen in port 3000
+[2023-05-30T13:54:29.900Z] error: Inicio de sesión, Usuario no existe
+[2023-05-30T13:55:08.268Z] error: Inicio de sesión, Usuario no existe
+[2023-05-30T13:55:12.688Z] error: Inicio de sesión, Usuario no existe
+[2023-05-30T13:55:17.881Z] error: Inicio de sesión, Usuario no existe
+[2023-05-30T13:56:12.806Z] info: Listen in port 3000
+[2023-05-30T13:56:21.015Z] info: Listen in port 3000
+[2023-05-30T13:56:46.341Z] info: Listen in port 3000
+[2023-05-30T13:58:22.462Z] info: Listen in port 3000
+[2023-05-30T13:59:45.260Z] info: Listen in port 3000
+[2023-05-30T14:00:47.339Z] info: Listen in port 3000
+[2023-05-30T14:01:12.735Z] error: Inicio de sesión, contraseña incorrecta
+[2023-05-30T14:02:28.236Z] info: Listen in port 3000
+[2023-05-30T14:02:31.739Z] error: Inicio de sesión, Usuario no existe
+[2023-05-30T14:03:10.115Z] info: Listen in port 3000
+[2023-05-30T14:04:03.605Z] info: Listen in port 3000
+[2023-05-30T14:05:10.811Z] error: Busqueda pqrs por id evadvegvrsvr445 sin resultados
+[2023-05-30T14:06:45.610Z] info: Listen in port 3000
+[2023-05-30T14:08:28.973Z] info: Listen in port 3000
+[2023-05-30T14:08:38.378Z] info: autenticación exitosa
+[2023-05-30T14:08:38.400Z] info: Autorización exitosa
+[2023-05-30T14:08:38.417Z] info: Petición listar todas las pqrs
+[2023-05-30T14:08:50.457Z] info: Busqueda pqrs por id 6470f42d305bbaba8c329d8b exitosa
+[2023-05-30T14:10:00.804Z] info: Listen in port 3000
+[2023-05-30T14:10:02.089Z] info: Busqueda pqrs por id 6470f42d305bbaba8c329d8b exitosa
+[2023-05-30T14:10:34.803Z] info: Listen in port 3000
+[2023-05-30T14:10:34.886Z] info: Busqueda pqrs por id 6470f42d305bbaba8c329d8b exitosa
+[2023-05-30T14:11:02.154Z] info: Listen in port 3000
+[2023-05-30T14:11:38.157Z] info: Listen in port 3000
+[2023-05-30T14:12:18.586Z] info: Busqueda pqrs por userid 6470f42d305bbaba8c329d8b sin resultados
+[2023-05-30T14:18:41.776Z] info: Listen in port 3000
+[2023-05-30T14:27:48.067Z] info: Listen in port 3000
+[2023-05-30T14:36:59.036Z] info: Listen in port 3000
+[2023-05-30T14:37:14.377Z] info: Listen in port 3000
+[2023-05-30T14:37:19.111Z] error: Busqueda pqrs por userid 6470f42d305bbaba8c329d8b44$$ sin resultados
+[2023-05-30T14:37:23.736Z] info: Busqueda pqrs por userid 6470f42d305bbaba8c329d8b sin resultados
+[2023-05-30T14:39:46.191Z] error: Busqueda pqrs por userid 6470f42d305bbaba8c329d8b+++ sin resultados
+[2023-05-30T14:40:18.063Z] error: Inicio de sesión, Usuario no existe
+[2023-05-30T14:41:51.878Z] error: Inicio de sesión, contraseña incorrecta
+[2023-05-30T14:50:57.589Z] info: Listen in port 3000
+[2023-05-30T14:52:04.565Z] info: Listen in port 3000
+[2023-05-30T14:54:35.411Z] info: Listen in port 3000
+[2023-05-30T15:00:39.796Z] error: Inicio de sesión, contraseña incorrecta
+[2023-05-30T15:08:41.261Z] info: Listen in port 3000
+[2023-05-30T15:09:35.281Z] info: Listen in port 3000
+[2023-05-30T15:09:35.304Z] info: Conexión a Base de datos exitosa
+[2023-05-30T15:09:38.834Z] info: Listen in port 3000
+[2023-05-30T15:09:38.855Z] info: Conexión a Base de datos exitosa
+[2023-05-30T15:10:10.154Z] info: Listen in port 3000
+[2023-05-30T15:10:39.776Z] info: Listen in port 3000
+[2023-05-30T15:11:08.981Z] info: Listen in port 3000
+[2023-05-30T15:11:28.098Z] info: Listen in port 3000
+[2023-05-30T15:11:58.106Z] error: Error conexión con base de datos
+[2023-05-30T15:12:22.096Z] info: Listen in port 3000
+[2023-05-30T15:12:52.100Z] error: Error conexión con base de datos
+[2023-05-30T15:13:18.861Z] info: Listen in port 3000
+[2023-05-30T15:13:48.867Z] error: Error conexión con base de datos
+[2023-05-30T15:15:19.102Z] info: Listen in port 3000
+[2023-05-30T15:15:36.996Z] info: Listen in port 3000
+[2023-05-30T15:15:37.017Z] info: Conexión a Base de datos exitosa
+[2023-05-30T15:19:14.734Z] info: Listen in port 3000
+[2023-05-30T15:19:14.755Z] info: Conexión a Base de datos exitosa
+[2023-05-30T15:19:17.981Z] info: Petición listar todas las pqrs
+[2023-05-30T15:30:53.595Z] info: Petición listar todas las pqrs
+[2023-05-30T15:30:59.216Z] info: Petición listar todas las pqrs
+[2023-05-30T15:32:19.981Z] info: Petición listar todas las pqrs
+[2023-05-30T15:32:24.838Z] info: Petición listar todas las pqrs
+[2023-05-30T15:33:05.338Z] info: Petición listar todas las pqrs
+[2023-05-30T15:33:08.882Z] info: Petición listar todas las pqrs
+[2023-05-30T15:34:04.975Z] info: Petición listar todas las pqrs
+[2023-05-30T15:41:50.634Z] info: Petición listar todas las pqrs
+[2023-05-30T15:56:09.045Z] info: Petición listar todas las pqrs
+[2023-05-30T16:10:39.645Z] info: Petición listar todas las pqrs
+[2023-05-30T16:24:23.421Z] info: Petición listar todas las pqrs
+[2023-05-30T16:28:50.996Z] info: Petición listar todas las pqrs
+[2023-05-30T16:29:24.484Z] info: Petición listar todas las pqrs
+[2023-05-30T16:29:55.152Z] info: Petición listar todas las pqrs
+[2023-05-30T16:34:02.221Z] info: Petición listar todas las pqrs
+[2023-05-30T16:36:29.163Z] info: Inicio de sesión exitoso
+[2023-05-30T16:36:44.587Z] error: Inicio de sesión, contraseña incorrecta
+[2023-05-30T16:38:30.392Z] error: Inicio de sesión, contraseña incorrecta
+[2023-05-30T16:41:29.683Z] info: Inicio de sesión exitoso
+[2023-05-30T16:41:32.736Z] error: Inicio de sesión, contraseña incorrecta
+[2023-05-30T16:45:26.869Z] error: Inicio de sesión, contraseña incorrecta
+[2023-05-30T16:45:29.463Z] error: Inicio de sesión, contraseña incorrecta
+[2023-05-30T16:51:29.967Z] error: Inicio de sesión, contraseña incorrecta
+[2023-05-30T16:51:32.984Z] error: Inicio de sesión, contraseña incorrecta
+[2023-05-30T16:52:50.223Z] info: Petición listar todas las pqrs
+[2023-05-30T16:52:54.764Z] error: Inicio de sesión, contraseña incorrecta
+[2023-05-30T16:53:00.638Z] info: Inicio de sesión exitoso
+[2023-05-30T16:59:06.156Z] info: Petición listar todas las pqrs
+[2023-05-30T17:01:20.177Z] info: Petición listar todas las pqrs
+[2023-05-30T17:06:57.724Z] info: Petición listar todas las pqrs
+[2023-05-30T17:11:59.257Z] error: Inicio de sesión, contraseña incorrecta
+[2023-05-30T17:12:21.132Z] info: Petición listar todas las pqrs
+[2023-05-30T17:12:27.434Z] info: Petición listar todas las pqrs
+[2023-05-30T17:12:34.771Z] info: Petición listar todas las pqrs
+[2023-05-30T17:12:39.474Z] error: Inicio de sesión, contraseña incorrecta
+[2023-05-30T17:15:31.534Z] error: Inicio de sesión, Usuario no existe
+[2023-05-30T17:21:33.363Z] info: Petición listar todas las pqrs
+[2023-05-30T17:22:20.984Z] info: Petición listar todas las pqrs
+[2023-05-30T17:23:00.484Z] info: Inicio de sesión exitoso
+[2023-05-30T17:23:03.740Z] info: Inicio de sesión exitoso
+[2023-05-30T17:23:04.467Z] info: Inicio de sesión exitoso
+[2023-05-30T17:23:20.366Z] error: Inicio de sesión, contraseña incorrecta
+[2023-05-30T17:23:26.857Z] info: Inicio de sesión exitoso
+[2023-05-30T17:23:50.982Z] info: Inicio de sesión exitoso
+[2023-05-30T17:24:53.148Z] info: Inicio de sesión exitoso
+[2023-05-30T17:26:15.872Z] info: Inicio de sesión exitoso
+[2023-05-30T17:28:01.734Z] info: Inicio de sesión exitoso
+[2023-05-30T17:28:17.713Z] info: Inicio de sesión exitoso
+[2023-05-30T17:28:18.820Z] info: Inicio de sesión exitoso
+[2023-05-30T17:28:19.439Z] info: Inicio de sesión exitoso
+[2023-05-30T17:28:46.047Z] info: Inicio de sesión exitoso
+[2023-05-30T17:28:46.772Z] info: Inicio de sesión exitoso
+[2023-05-30T17:28:48.149Z] info: Inicio de sesión exitoso
+[2023-05-30T17:29:16.314Z] info: Inicio de sesión exitoso
+[2023-05-30T17:33:12.483Z] info: Inicio de sesión exitoso
+[2023-05-30T17:33:30.372Z] info: Inicio de sesión exitoso
+[2023-05-30T17:33:54.731Z] info: Inicio de sesión exitoso
+[2023-05-30T17:33:56.424Z] info: Inicio de sesión exitoso
+[2023-05-30T17:35:15.958Z] info: Inicio de sesión exitoso
+[2023-05-30T17:35:16.872Z] info: Inicio de sesión exitoso
+[2023-05-30T17:35:17.464Z] info: Inicio de sesión exitoso
+[2023-05-30T17:35:17.855Z] info: Inicio de sesión exitoso
+[2023-05-30T17:35:18.052Z] info: Inicio de sesión exitoso
+[2023-05-30T17:35:18.209Z] info: Inicio de sesión exitoso
+[2023-05-30T17:35:18.360Z] info: Inicio de sesión exitoso
+[2023-05-30T17:35:18.528Z] info: Inicio de sesión exitoso
+[2023-05-30T17:35:47.483Z] info: Inicio de sesión exitoso
+[2023-05-30T17:35:48.704Z] info: Inicio de sesión exitoso
+[2023-05-30T17:35:49.224Z] info: Inicio de sesión exitoso
+[2023-05-30T17:35:49.464Z] info: Inicio de sesión exitoso
+[2023-05-30T17:38:01.921Z] info: Inicio de sesión exitoso
+[2023-05-30T17:38:01.958Z] info: Inicio de sesión exitoso
+[2023-05-30T17:38:07.527Z] info: Inicio de sesión exitoso
+[2023-05-30T17:38:08.083Z] info: Inicio de sesión exitoso
+[2023-05-30T17:38:08.308Z] info: Inicio de sesión exitoso
+[2023-05-30T17:38:21.039Z] info: Inicio de sesión exitoso
+[2023-05-30T17:38:23.371Z] info: Inicio de sesión exitoso
+[2023-05-30T17:38:55.383Z] info: Petición listar todas las pqrs
+[2023-05-30T17:56:30.872Z] info: Inicio de sesión exitoso
+[2023-05-30T18:22:41.720Z] info: Inicio de sesión exitoso
+[2023-05-30T18:24:28.042Z] info: Inicio de sesión exitoso
+[2023-05-30T18:25:15.818Z] info: Inicio de sesión exitoso
+[2023-05-30T18:25:44.675Z] info: Inicio de sesión exitoso
+[2023-05-30T18:25:45.743Z] info: Inicio de sesión exitoso
+[2023-05-30T18:25:55.937Z] info: Inicio de sesión exitoso
+[2023-05-30T18:26:03.170Z] info: Inicio de sesión exitoso
+[2023-05-30T18:26:14.258Z] info: Inicio de sesión exitoso
+[2023-05-30T18:26:22.419Z] info: Inicio de sesión exitoso
+[2023-05-30T18:26:41.953Z] info: Inicio de sesión exitoso
+[2023-05-30T18:26:43.503Z] info: Inicio de sesión exitoso
+[2023-05-30T18:27:09.711Z] info: Inicio de sesión exitoso
+[2023-05-30T18:27:10.664Z] info: Inicio de sesión exitoso
+[2023-05-30T18:27:11.456Z] info: Inicio de sesión exitoso
+[2023-05-30T18:27:13.001Z] info: Inicio de sesión exitoso
+[2023-05-30T18:27:28.250Z] info: Inicio de sesión exitoso
+[2023-05-30T18:27:39.619Z] info: Inicio de sesión exitoso
+[2023-05-30T18:27:40.587Z] info: Inicio de sesión exitoso
+[2023-05-30T18:27:48.436Z] info: Inicio de sesión exitoso
+[2023-05-30T18:27:54.393Z] info: Inicio de sesión exitoso
+[2023-05-30T18:29:10.128Z] info: Listen in port 3000
+[2023-05-30T18:29:10.142Z] info: Conexión a Base de datos exitosa
+[2023-05-30T18:29:20.363Z] info: Inicio de sesión exitoso
+[2023-05-30T18:29:41.238Z] info: Inicio de sesión exitoso
+[2023-05-30T18:29:53.871Z] info: Inicio de sesión exitoso
+[2023-05-30T18:30:20.427Z] info: Inicio de sesión exitoso
+[2023-05-30T18:30:28.988Z] info: Inicio de sesión exitoso
+[2023-05-30T18:40:37.451Z] info: Listen in port 3000
+[2023-05-30T18:40:37.468Z] info: Conexión a Base de datos exitosa
+[2023-05-30T18:40:39.161Z] info: autenticación exitosa
+[2023-05-30T18:40:39.175Z] info: Autorización exitosa
+[2023-05-30T18:40:39.185Z] info: Petición listar todas las pqrs
+[2023-05-30T18:42:51.670Z] info: Inicio de sesión exitoso
+[2023-05-30T18:43:38.040Z] info: Inicio de sesión exitoso
+[2023-05-30T18:51:14.614Z] info: autenticación exitosa
+[2023-05-30T18:51:14.620Z] info: Autorización exitosa
+[2023-05-30T18:51:14.627Z] info: Petición listar todas las pqrs
+[2023-05-30T18:53:56.692Z] info: autenticación exitosa
+[2023-05-30T18:53:56.697Z] info: Autorización exitosa
+[2023-05-30T18:53:56.702Z] info: Petición listar todas las pqrs
+[2023-05-30T18:54:55.855Z] info: autenticación exitosa
+[2023-05-30T18:54:55.859Z] info: Autorización exitosa
+[2023-05-30T18:54:55.867Z] info: Petición listar todas las pqrs
+[2023-05-30T18:57:01.050Z] info: autenticación exitosa
+[2023-05-30T18:57:01.056Z] info: Autorización exitosa
+[2023-05-30T18:57:01.060Z] info: Petición listar todas las pqrs
+[2023-05-30T18:57:02.957Z] info: autenticación exitosa
+[2023-05-30T18:57:02.963Z] info: Autorización exitosa
+[2023-05-30T18:57:02.969Z] info: Petición listar todas las pqrs
+[2023-05-30T18:57:03.707Z] info: autenticación exitosa
+[2023-05-30T18:57:03.713Z] info: Autorización exitosa
+[2023-05-30T18:57:03.718Z] info: Petición listar todas las pqrs
+[2023-05-30T18:57:04.272Z] info: autenticación exitosa
+[2023-05-30T18:57:04.277Z] info: Autorización exitosa
+[2023-05-30T18:57:04.284Z] info: Petición listar todas las pqrs
+[2023-05-30T18:57:04.752Z] info: autenticación exitosa
+[2023-05-30T18:57:04.758Z] info: Autorización exitosa
+[2023-05-30T18:57:04.765Z] info: Petición listar todas las pqrs
+[2023-05-30T18:57:05.331Z] info: autenticación exitosa
+[2023-05-30T18:57:05.337Z] info: Autorización exitosa
+[2023-05-30T18:57:05.342Z] info: Petición listar todas las pqrs
+[2023-05-30T18:57:05.900Z] info: autenticación exitosa
+[2023-05-30T18:57:05.906Z] info: Autorización exitosa
+[2023-05-30T18:57:05.909Z] info: Petición listar todas las pqrs
+[2023-05-30T18:57:06.578Z] info: autenticación exitosa
+[2023-05-30T18:57:06.583Z] info: Autorización exitosa
+[2023-05-30T18:57:06.587Z] info: Petición listar todas las pqrs
+[2023-05-30T18:57:43.287Z] info: autenticación exitosa
+[2023-05-30T18:57:43.293Z] info: Autorización exitosa
+[2023-05-30T18:57:43.297Z] info: Petición listar todas las pqrs
+[2023-05-30T18:57:54.337Z] info: autenticación exitosa
+[2023-05-30T18:57:54.342Z] info: Autorización exitosa
+[2023-05-30T18:57:54.347Z] info: Petición listar todas las pqrs
+[2023-05-30T18:58:09.348Z] info: autenticación exitosa
+[2023-05-30T18:58:09.353Z] info: Autorización exitosa
+[2023-05-30T18:58:09.358Z] info: Petición listar todas las pqrs
+[2023-05-30T18:59:15.491Z] info: autenticación exitosa
+[2023-05-30T18:59:15.496Z] info: Autorización exitosa
+[2023-05-30T18:59:15.501Z] info: Petición listar todas las pqrs
+[2023-05-30T18:59:24.481Z] info: autenticación exitosa
+[2023-05-30T18:59:24.485Z] info: Autorización exitosa
+[2023-05-30T18:59:24.488Z] info: Petición listar todas las pqrs
+[2023-05-30T18:59:26.016Z] info: autenticación exitosa
+[2023-05-30T18:59:26.021Z] info: Autorización exitosa
+[2023-05-30T18:59:26.025Z] info: Petición listar todas las pqrs
+[2023-05-30T18:59:26.858Z] info: autenticación exitosa
+[2023-05-30T18:59:26.862Z] info: Autorización exitosa
+[2023-05-30T18:59:26.865Z] info: Petición listar todas las pqrs
+[2023-05-30T18:59:27.704Z] info: autenticación exitosa
+[2023-05-30T18:59:27.708Z] info: Autorización exitosa
+[2023-05-30T18:59:27.712Z] info: Petición listar todas las pqrs
+[2023-05-30T18:59:40.083Z] info: autenticación exitosa
+[2023-05-30T18:59:40.087Z] info: Autorización exitosa
+[2023-05-30T18:59:40.091Z] info: Petición listar todas las pqrs
+[2023-05-30T18:59:40.752Z] info: autenticación exitosa
+[2023-05-30T18:59:40.757Z] info: Autorización exitosa
+[2023-05-30T18:59:40.762Z] info: Petición listar todas las pqrs
+[2023-05-30T18:59:41.457Z] info: autenticación exitosa
+[2023-05-30T18:59:41.461Z] info: Autorización exitosa
+[2023-05-30T18:59:41.466Z] info: Petición listar todas las pqrs
+[2023-05-30T19:26:21.949Z] info: Inicio de sesión exitoso
+[2023-05-30T19:26:28.533Z] info: Inicio de sesión exitoso
+[2023-05-30T19:27:05.400Z] info: Inicio de sesión exitoso
+[2023-05-30T19:27:51.715Z] info: Inicio de sesión exitoso
+[2023-05-30T19:27:55.471Z] info: Inicio de sesión exitoso
+[2023-05-30T19:27:55.993Z] info: Inicio de sesión exitoso
+[2023-05-30T19:27:56.183Z] info: Inicio de sesión exitoso
+[2023-05-30T19:27:56.368Z] info: Inicio de sesión exitoso
+[2023-05-30T19:27:56.536Z] info: Inicio de sesión exitoso
+[2023-05-30T19:27:56.704Z] info: Inicio de sesión exitoso
+[2023-05-30T19:27:56.881Z] info: Inicio de sesión exitoso
+[2023-05-30T19:28:44.876Z] info: Inicio de sesión exitoso
+[2023-05-30T19:28:48.972Z] info: autenticación exitosa
+[2023-05-30T19:28:48.976Z] info: Autorización exitosa
+[2023-05-30T19:28:48.980Z] info: Petición listar todas las pqrs
+[2023-05-30T19:28:54.397Z] info: autenticación exitosa
+[2023-05-30T19:28:54.401Z] info: Autorización exitosa
+[2023-05-30T19:28:54.405Z] info: Petición listar todas las pqrs
+[2023-05-30T19:28:55.442Z] info: autenticación exitosa
+[2023-05-30T19:28:55.446Z] info: Autorización exitosa
+[2023-05-30T19:28:55.450Z] info: Petición listar todas las pqrs
+[2023-05-30T19:30:01.872Z] info: autenticación exitosa
+[2023-05-30T19:30:01.876Z] info: Autorización exitosa
+[2023-05-30T19:30:01.881Z] info: Petición listar todas las pqrs
+[2023-05-30T19:30:14.982Z] info: autenticación exitosa
+[2023-05-30T19:30:14.987Z] info: Autorización exitosa
+[2023-05-30T19:30:14.993Z] info: Petición listar todas las pqrs
+[2023-05-30T19:30:57.692Z] info: autenticación exitosa
+[2023-05-30T19:30:57.695Z] info: Autorización exitosa
+[2023-05-30T19:30:57.699Z] info: Petición listar todas las pqrs
+[2023-05-30T19:30:58.762Z] info: autenticación exitosa
+[2023-05-30T19:30:58.766Z] info: Autorización exitosa
+[2023-05-30T19:30:58.770Z] info: Petición listar todas las pqrs
+[2023-05-30T19:30:59.899Z] info: autenticación exitosa
+[2023-05-30T19:30:59.903Z] info: Autorización exitosa
+[2023-05-30T19:30:59.907Z] info: Petición listar todas las pqrs
+[2023-05-30T19:35:11.708Z] info: autenticación exitosa
+[2023-05-30T19:35:11.715Z] info: Autorización exitosa
+[2023-05-30T19:35:11.723Z] info: Petición listar todas las pqrs
+[2023-05-30T19:52:00.604Z] info: autenticación exitosa
+[2023-05-30T19:52:00.609Z] info: Autorización exitosa
+[2023-05-30T19:52:00.613Z] info: Petición listar todas las pqrs
+[2023-05-30T19:52:20.456Z] info: Busqueda pqrs por id 6473b0445cf9c3849db34735 exitosa
+[2023-05-30T19:57:01.751Z] info: Listen in port 3000
+[2023-05-30T19:57:01.772Z] info: Conexión a Base de datos exitosa
+[2023-05-30T19:57:27.430Z] info: Listen in port 3000
+[2023-05-30T19:57:27.447Z] info: Conexión a Base de datos exitosa
+[2023-05-30T19:58:42.051Z] info: Listen in port 3000
+[2023-05-30T19:58:42.069Z] info: Conexión a Base de datos exitosa
+[2023-05-30T19:59:13.273Z] info: Listen in port 3000
+[2023-05-30T19:59:13.292Z] info: Conexión a Base de datos exitosa
+[2023-05-30T19:59:29.968Z] info: Listen in port 3000
+[2023-05-30T19:59:29.989Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:00:11.459Z] info: Listen in port 3000
+[2023-05-30T20:00:11.472Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:00:14.151Z] info: Listen in port 3000
+[2023-05-30T20:00:14.171Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:00:52.259Z] info: Listen in port 3000
+[2023-05-30T20:00:52.280Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:02:51.909Z] info: Listen in port 3000
+[2023-05-30T20:02:51.929Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:03:11.551Z] info: Listen in port 3000
+[2023-05-30T20:03:11.570Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:03:47.093Z] info: autenticación exitosa
+[2023-05-30T20:03:47.114Z] info: Autorización exitosa
+[2023-05-30T20:03:47.131Z] info: Petición listar todas las pqrs
+[2023-05-30T20:04:01.704Z] error: Sesión no valida
+[2023-05-30T20:12:29.402Z] info: Listen in port 3000
+[2023-05-30T20:12:29.420Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:14:15.771Z] info: Listen in port 3000
+[2023-05-30T20:14:15.787Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:14:38.180Z] info: Listen in port 3000
+[2023-05-30T20:14:38.204Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:15:17.090Z] info: Listen in port 3000
+[2023-05-30T20:15:17.107Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:16:05.861Z] info: Listen in port 3000
+[2023-05-30T20:16:05.880Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:16:12.411Z] info: Listen in port 3000
+[2023-05-30T20:16:12.425Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:16:25.146Z] info: Listen in port 3000
+[2023-05-30T20:16:25.164Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:20:06.019Z] info: Listen in port 3000
+[2023-05-30T20:20:06.035Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:21:20.463Z] info: Listen in port 3000
+[2023-05-30T20:21:20.477Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:22:25.219Z] info: Listen in port 3000
+[2023-05-30T20:22:25.240Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:22:57.695Z] info: Listen in port 3000
+[2023-05-30T20:22:57.713Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:24:39.515Z] info: Listen in port 3000
+[2023-05-30T20:24:39.532Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:26:17.542Z] info: Listen in port 3000
+[2023-05-30T20:26:17.561Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:27:17.465Z] info: Listen in port 3000
+[2023-05-30T20:27:17.490Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:29:19.825Z] info: Listen in port 3000
+[2023-05-30T20:29:19.843Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:29:46.608Z] info: Listen in port 3000
+[2023-05-30T20:29:46.641Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:30:08.919Z] info: Listen in port 3000
+[2023-05-30T20:30:08.954Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:30:42.926Z] info: Listen in port 3000
+[2023-05-30T20:30:42.947Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:31:20.539Z] info: Listen in port 3000
+[2023-05-30T20:31:20.576Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:32:36.952Z] info: Listen in port 3000
+[2023-05-30T20:32:36.971Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:33:33.595Z] info: Listen in port 3000
+[2023-05-30T20:33:33.610Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:34:57.275Z] info: Listen in port 3000
+[2023-05-30T20:34:57.291Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:36:27.472Z] info: Listen in port 3000
+[2023-05-30T20:36:27.496Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:37:32.082Z] info: Listen in port 3000
+[2023-05-30T20:37:32.099Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:37:55.655Z] info: Listen in port 3000
+[2023-05-30T20:37:55.674Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:38:12.644Z] info: Listen in port 3000
+[2023-05-30T20:38:12.662Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:39:57.570Z] info: Listen in port 3000
+[2023-05-30T20:39:57.584Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:40:08.595Z] info: Listen in port 3000
+[2023-05-30T20:40:08.624Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:40:43.729Z] info: Listen in port 3000
+[2023-05-30T20:40:43.744Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:47:38.256Z] info: Listen in port 3000
+[2023-05-30T20:47:38.290Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:48:54.258Z] info: Listen in port 3000
+[2023-05-30T20:48:54.280Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:50:15.794Z] info: Listen in port 3000
+[2023-05-30T20:50:15.807Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:51:08.913Z] info: Listen in port 3000
+[2023-05-30T20:51:08.931Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:51:31.249Z] info: Listen in port 3000
+[2023-05-30T20:51:31.265Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:52:15.434Z] info: Listen in port 3000
+[2023-05-30T20:52:15.452Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:52:16.867Z] info: Listen in port 3000
+[2023-05-30T20:52:16.887Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:54:03.797Z] info: Listen in port 3000
+[2023-05-30T20:54:03.811Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:54:17.597Z] info: Listen in port 3000
+[2023-05-30T20:54:17.625Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:54:38.635Z] info: Listen in port 3000
+[2023-05-30T20:54:38.654Z] info: Conexión a Base de datos exitosa
+[2023-05-30T20:55:36.531Z] info: Listen in port 3000
+[2023-05-30T20:55:36.548Z] info: Conexión a Base de datos exitosa

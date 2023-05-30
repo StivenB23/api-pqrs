@@ -1,0 +1,38 @@
+[2023-05-29T19:38:17.838Z] info: Petición listar todas las pqrs
+[2023-05-29T19:39:02.404Z] info: Petición listar todas las pqrs
+[2023-05-29T19:39:11.426Z] info: Busqueda pqrs por id 6473b0445cf9c3849db34735 exitosa
+[2023-05-29T19:40:25.433Z] info: Pqrs actualizada de forma exitosa
+[2023-05-29T19:41:31.865Z] info: Petición listar todas las pqrs
+[2023-05-29T19:41:40.712Z] info: Busqueda pqrs por userid 6470f42d305bbaba8c329d8a exitosa
+[2023-05-29T19:43:48.149Z] info: Inicio de sesión exitoso
+[2023-05-29T19:45:56.010Z] info: Usuario registrado de forma exitosa
+[2023-05-29T19:47:19.701Z] info: Petición listar todas las pqrs
+[2023-05-29T19:47:49.755Z] info: Busqueda pqrs por id 6473b0445cf9c3849db34735 exitosa
+[2023-05-29T19:48:15.559Z] info: Listen in port 3000
+[2023-05-29T19:48:19.658Z] info: Petición listar todas las pqrs
+[2023-05-29T19:51:34.181Z] info: Petición listar todas las pqrs
+[2023-05-29T19:52:01.484Z] info: Petición listar todas las pqrs
+[2023-05-29T19:52:23.425Z] info: Petición listar todas las pqrs
+[2023-05-29T19:52:36.145Z] info: Petición listar todas las pqrs
+[2023-05-29T19:54:08.219Z] info: Petición listar todas las pqrs
+[2023-05-29T19:55:10.397Z] info: Petición listar todas las pqrs
+[2023-05-29T19:55:10.470Z] info: Busqueda pqrs por id 6473b0445cf9c3849db34735 exitosa
+[2023-05-29T19:55:10.546Z] info: Busqueda pqrs por userid 6470f42d305bbaba8c329d8a exitosa
+[2023-05-29T19:55:10.660Z] info: Pqrs actualizada de forma exitosa
+[2023-05-29T19:57:14.672Z] info: Petición listar todas las pqrs
+[2023-05-29T19:57:31.908Z] info: Petición listar todas las pqrs
+[2023-05-29T19:58:13.392Z] info: Petición listar todas las pqrs
+[2023-05-29T19:58:41.406Z] info: Busqueda pqrs por id 6473b0445cf9c3849db34735 exitosa
+[2023-05-29T19:58:57.458Z] info: Busqueda pqrs por id 6473b0445cf9c3849db34735 exitosa
+[2023-05-29T19:59:16.243Z] info: Busqueda pqrs por userid 6470f42d305bbaba8c329d8a exitosa
+[2023-05-29T20:01:13.258Z] info: Inicio de sesión exitoso
+[2023-05-29T20:02:09.626Z] info: Listen in port 3000
+[2023-05-29T20:02:14.304Z] error: Sesión no valida
+[2023-05-29T20:02:20.772Z] error: Sesión no valida
+[2023-05-29T20:03:03.209Z] error: Sesión no valida
+[2023-05-29T20:03:10.987Z] error: Sesión no valida
+[2023-05-29T20:05:31.171Z] info: autenticación exitosa
+[2023-05-29T20:05:31.195Z] info: Autorización exitosa
+[2023-05-29T20:05:31.209Z] info: Petición listar todas las pqrs
+[2023-05-29T23:12:14.170Z] info: Listen in port 3000
+[2023-05-29T23:12:35.248Z] info: Usuario registrado de forma exitosa
