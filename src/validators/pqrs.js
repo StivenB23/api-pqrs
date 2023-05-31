@@ -2,7 +2,7 @@ import { check } from "express-validator";
 import { validationExpress } from "../util/validation.handle.js";
 
 const validateCreate = [
-    check('usuario')
+    check('user')
         .exists().withMessage('El campo usuario no existe')
         .not()
         .isEmpty().withMessage('El campo usuario no puede estar vacio'),

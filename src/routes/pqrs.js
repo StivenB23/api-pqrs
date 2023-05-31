@@ -22,30 +22,30 @@ const router = Router();
  *      Pqrs:
  *          type: object
  *          properties:
- *              id:
- *                  type: string
- *                  example: 6473b0445cf9c3849ds34735
- *              user:
- *                  type: string
- *                  example: 6473b04s6cf9c3849db34735
- *              type:
- *                  type: string
- *                  example: Queja
- *              description:
+ *                  id:
+ *                      type: string
+ *                      example: 6473b0445cf9c3849ds34735
+ *                  user:
+ *                      type: string
+ *                      example: 6473b04s6cf9c3849db34735
+ *                  type:
+ *                      type: string
+ *                      example: Queja
+ *                  description:
  *                     type: string
  *                     example: El servicio brindado no fue de calidad
- *              date:
- *                   type: Date
- *                   example: 2023-05-29 10:00:00
- *              areas:
- *                  type: Array
- *                  example: ["Servicio al cliente"] 
- *              state: 
- *                  type: string
- *                  example: pendiente
- *              civilservant:
- *                  type: string
- *                  example: ["John Doe", "Wendie Brown"]
+ *                  date:
+ *                      type: Date
+ *                      example: 2023-05-29 10:00:00
+ *                  areas:
+ *                      type: Array
+ *                      example: ["Servicio al cliente"] 
+ *                  state: 
+ *                      type: string
+ *                      example: pendiente
+ *                  civilservant:
+ *                      type: string
+ *                      example: ["John Doe", "Wendie Brown"]
  *
  * 
 */
@@ -59,7 +59,6 @@ const router = Router();
  *     summary: return all pqrs
  *     tags:
  *      - pqrs
- *     
  *     parameters:
  *       - in: query
  *         name: type
@@ -91,60 +90,79 @@ const router = Router();
  *                   type: array 
  *                   items: 
  *                         $ref: "#/components/schemas/Pqrs"
+ *       4XX:
+ *          description: Not found
+ *          content:
+ *              application:json:
+ *                  schema:
+ *                      type: object
+ *                      properties:
+ *                          error:
+ *                              type: Object
+ *                              example: "Not found"
  */
 router.get("/pqrs", Authetication, checkRoleAuth(['admin']), getAllPqrs);
 // router.get("/pqrs", getAllPqrs);
-/**
+ /**
  * @openapi
  * /pqrs/{id}:
  *   get:
- *     summary: return a pqrs
- *     tags:
- *      - pqrs
- *     parameters:
+ *      security:
+ *        - BearerAuth: []
+ *      summary: return a pqrs
+ *      tags:
+ *       - pqrs
+ *      parameters:
  *       - in: path
  *         name: id
  *         schema:
  *           type: string
  *         required: true
- *     responses:
- *       200:
- *         description: OK
- *         content:
- *           application/json:
- *             schema:
- *               type: object
- *               properties:
- *                 status:
+ *      responses:
+ *          200:
+ *             description: OK
+ *             content:
+ *               application/json:
+ *                  schema:
+ *                    type: object
+ *                    properties:
+ *                  status:
  *                   type: string
  *                   example: OK
- *                 data:
+ *                  data:
  *                   type: array 
  *                   items: 
  *                         $ref: "#/components/schemas/Pqrs"
-  *       4XX:
- *         description: FAILED
- *         content:
- *           application/json:
- *             schema:
- *               type: object
- *               properties:
- *                 status: 
- *                   type: string
- *                   example: FAILED
- *                 data:
- *                   type: object
- *                   properties:
+ *          400:
+ *             description: FAILED
+ *             content:
+ *                  application/json:
+ *                   schema:
+ *                    type: object
+ *                    properties:
  *                     error:
  *                       type: string 
  *                       example: "El id ingresado no es valido para realizar la busqueda"
+ *          404:
+ *             description: NOT FOUND
+ *             content:
+ *                  application/json:
+ *                   schema:
+ *                    type: object
+ *                    properties:
+ *                     error:
+ *                       type: string 
+ *                       example: "No se encontro resultados con el id ingresado"
  */
-router.get("/pqrs/:id", getByIdPqrs);
+router.get("/pqrs/:id", Authetication,getByIdPqrs);
 // router.get("/pqrs/:id", Authetication, getByIdPqrs);
-/**
+
+ /**
  * @openapi
  * /pqrs/user/{userid}:
  *   get:
+ *     security:
+ *        - BearerAuth: []
  *     summary: return all pqrs of a user
  *     tags:
  *      - pqrs
@@ -169,25 +187,29 @@ router.get("/pqrs/:id", getByIdPqrs);
  *                   type: array 
  *                   items: 
  *                         $ref: "#/components/schemas/Pqrs"
-  *       4XX:
- *         description: FAILED
- *         content:
- *           application/json:
- *             schema:
- *               type: object
- *               properties:
- *                 status: 
- *                   type: string
- *                   example: FAILED
- *                 data:
- *                   type: object
- *                   properties:
+ *       400:
+ *             description: FAILED
+ *             content:
+ *                  application/json:
+ *                   schema:
+ *                    type: object
+ *                    properties:
  *                     error:
  *                       type: string 
- *                       example: "El id ingresado no es valido para realizar la busqueda"
+ *                       example: "El user id ingresado no es valido para realizar la busqueda"
+ *       404:
+ *             description: NOT FOUND
+ *             content:
+ *                  application/json:
+ *                   schema:
+ *                    type: object
+ *                    properties:
+ *                     error:
+ *                       type: string 
+ *                       example: "No se encontro resultados con el user id ingresado"
  */
-router.get("/pqrs/user/:userid", getByUserPqrs);
-/**
+router.get("/pqrs/user/:userid",Authetication, getByUserPqrs);
+ /**
  * @openapi
  * /pqrs/:
  *   post:
@@ -199,9 +221,9 @@ router.get("/pqrs/user/:userid", getByUserPqrs);
  *          required: true
  *          content:
  *              application/json:
- *               Schema: 
- *                  $ref: "#/components/schemas/Pqrs"
- *  
+ *               schema:
+ *                  type: object
+ *                  example: { "type":"" , "description":"", "areas":[""],"civilservant":[""]}
  *     responses:
  *       200:
  *         description: OK
@@ -217,26 +239,42 @@ router.get("/pqrs/user/:userid", getByUserPqrs);
  *                   type: array 
  *                   items: 
  *                         $ref: "#/components/schemas/Pqrs"
+ *       4xx:
+ *             description: Bad Request
+ *             content:
+ *                  application/json:
+ *                    schema:
+ *                      type: object
+ *                      properties:
+ *                        errors:
+ *                          type: Array 
+ *                          example: [{"field":"type","msg":"not exits"},{"field":"type","msg":"is empty"},{"field":"description","msg":"not exits"},{"field":"description","msg":"is empty"},{"field":"areas","msg":"not exits"},{"field":"areas","msg":"is empty"}]
  */
 router.post("/pqrs", validateCreate, createPqrs);
-/**
+
+ /**
  * @openapi
- * /pqrs/:
+ * /pqrs/{id}:
  *   put:
+ *     security:
+ *        - BearerAuth: []
  *     summary: update the state of a pqrs
  *     tags:
  *      - pqrs
+ *     parameters:
+ *       - in: path
+ *         name: id
+ *         schema:
+ *           type: string
+ *         required: true
  *     requestBody:
  *          description: Optional description in *Markdown*
- *          required: true
  *          content:
  *              application/json:
- *               Schema: 
- *                  $ref: "#/components/schemas/Pqrs"
- *              application/x-www-form-urlencoded:
- *               schema:
- *                  $ref: '#/components/schemas/Pqrs'
- *                  
+ *                  schema:
+ *                       type: object
+ *                  example: 
+ *                      {"estatus":"en proceso"}  
  *     responses:
  *       200:
  *         description: OK
@@ -252,22 +290,16 @@ router.post("/pqrs", validateCreate, createPqrs);
  *                   type: array 
  *                   items: 
  *                         $ref: "#/components/schemas/Pqrs"
-  *       4XX:
- *         description: FAILED
- *         content:
- *           application/json:
- *             schema:
- *               type: object
- *               properties:
- *                 status: 
- *                   type: string
- *                   example: FAILED
- *                 data:
- *                   type: object
- *                   properties:
+ *       400:
+ *             description: Bad request
+ *             content:
+ *                  application/json:
+ *                   schema:
+ *                    type: object
+ *                    properties:
  *                     error:
  *                       type: string 
- *                       example: "El id ingresado no es valido para realizar la busqueda"
+ *                       example: "El user id ingresado no es valido para realizar la actualización"
  */
-router.put("/pqrs/:id", updatepqrs);
+router.put("/pqrs/:id", Authetication,updatepqrs);
 export default router

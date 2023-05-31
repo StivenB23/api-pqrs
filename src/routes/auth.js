@@ -71,6 +71,13 @@ router.post("/login", validateLogin, loginCtrl);
  *     summary: register a new user 
  *     tags:
  *      - User
+ *     requestBody:
+ *          description: Optional description in *Markdown*
+ *          content:
+ *              application/json:
+ *                  schema:
+ *                       type: object
+ *                  example: { "fullname":"" , "email":"", "password":""}
  *     responses:
  *       200:
  *         description: OK
