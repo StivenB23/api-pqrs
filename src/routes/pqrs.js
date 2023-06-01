@@ -57,6 +57,7 @@ const router = Router();
  *     security:
  *       - BearerAuth: []
  *     summary: return all pqrs
+ *     description: This endpoint allows the administrator to list all the pqrs, it requires authentication.
  *     tags:
  *      - pqrs
  *     parameters:
@@ -110,6 +111,7 @@ router.get("/pqrs", Authetication, checkRoleAuth(['admin']), getAllPqrs);
  *      security:
  *        - BearerAuth: []
  *      summary: return a pqrs
+ *      description: This endpoint allows the administrator to list the pqrs filtering by the id.
  *      tags:
  *       - pqrs
  *      parameters:
@@ -164,6 +166,7 @@ router.get("/pqrs/:id", Authetication,getByIdPqrs);
  *     security:
  *        - BearerAuth: []
  *     summary: return all pqrs of a user
+ *     description: This endpoint allows the administrator to list the pqrs filtering by the user id.
  *     tags:
  *      - pqrs
  *     parameters:
@@ -214,6 +217,7 @@ router.get("/pqrs/user/:userid",Authetication, getByUserPqrs);
  * /pqrs/:
  *   post:
  *     summary: create a new pqrs
+ *     description: This endpoint saves new pqrs
  *     tags:
  *      - pqrs
  *     requestBody:
@@ -259,6 +263,7 @@ router.post("/pqrs", validateCreate, createPqrs);
  *     security:
  *        - BearerAuth: []
  *     summary: update the state of a pqrs
+ *     description: This endpoint allows updating the status of the pqrs
  *     tags:
  *      - pqrs
  *     parameters:

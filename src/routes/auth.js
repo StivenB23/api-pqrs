@@ -33,7 +33,7 @@ const router = Router();
  * /login:
  *   post:
  *     summary: login
- *     description: this endpoint permited connect of user with data api
+ *     description: This endpoint is responsible for authenticating the user.
  *     tags:
  *      - User
  *     requestBody:
@@ -69,6 +69,7 @@ router.post("/login", validateLogin, loginCtrl);
  * /register:
  *   post:
  *     summary: register a new user 
+ *     description: This endpoint is in charge of registering new users
  *     tags:
  *      - User
  *     requestBody:

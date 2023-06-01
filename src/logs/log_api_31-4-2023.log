@@ -2,3 +2,7 @@
 [2023-05-31T13:56:59.376Z] info: Conexión a Base de datos exitosa
 [2023-05-31T14:22:39.184Z] info: Listen in port 3000
 [2023-05-31T14:22:39.213Z] info: Conexión a Base de datos exitosa
+[2023-05-31T14:28:34.895Z] info: Listen in port 3000
+[2023-05-31T14:29:04.984Z] error: Error conexión con base de datos
+[2023-05-31T14:43:40.776Z] info: Listen in port 3000
+[2023-05-31T14:43:42.004Z] info: Conexión a Base de datos exitosa
